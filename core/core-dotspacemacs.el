@@ -167,8 +167,8 @@ emacs.")
 ;;   "If non nil, distinguish C-m and return in the GUI version of
 ;; emacs.")
 
-(defvar dotspacemacs-default-font '("Source Code Pro"
-                                    :size 13
+(defvar dotspacemacs-default-font '("Ubuntu Mono"
+                                    :size 22
                                     :weight normal
                                     :width normal
                                     :powerline-scale 1.1)
